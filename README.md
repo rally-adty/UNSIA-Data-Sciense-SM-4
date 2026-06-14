@@ -23,7 +23,7 @@ Repository ini berisi kumpulan notebook Google Colab dari Pertemuan 1 sampai Per
 
 | Pertemuan | Topik | Notebook |
 |-----------|--------|-----------|
-| 1 | Pengenalan Data Science & Google Colab | [Pertemuan 1]([LINK_NOTEBOOK_1](https://github.com/rally-adty/UNSIA-Data-Sciense-SM-4/blob/main/Pertemuan1_M_Rally_Adityo_240401010212.ipynb)  |
+| 1 | Pengenalan Data Science & Google Colab | [Pertemuan 1](https://github.com/rally-adty/UNSIA-Data-Sciense-SM-4/blob/main/Pertemuan1_M_Rally_Adityo_240401010212.ipynb)  |
 | 2 | Data Cleaning dan Data Preparation | [Pertemuan 2](https://github.com/rally-adty/UNSIA-Data-Sciense-SM-4/blob/main/Pertemuan2_Maulana_Rally_Adityo_240401010212.ipynb)  |
 | 3 | Exploratory Data Analysis (EDA) – Titanic | [Pertemuan 3](https://github.com/rally-adty/UNSIA-Data-Sciense-SM-4/blob/main/Pertemuan3_M_Rally_Adityo_240401010212.ipynb) |
 | 4 | Statistik Deskriptif dan Analisis Korelasi – Iris | [Pertemuan 4](https://github.com/rally-adty/UNSIA-Data-Sciense-SM-4/blob/main/Pertemuan4_M_Rally_Adityo_240401010212.ipynb) |
