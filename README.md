@@ -156,6 +156,6 @@ Melalui rangkaian praktikum ini, saya memahami bahwa keberhasilan sebuah proyek 
 
 ---
 
-## ⭐ Penutup
+## Penutup
 
 Repository ini dibuat sebagai dokumentasi pembelajaran sekaligus portofolio selama mengikuti mata kuliah **Pengantar Data Science** pada Program Studi Informatika.
